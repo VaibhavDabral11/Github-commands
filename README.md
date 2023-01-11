@@ -34,4 +34,5 @@ command 16. git remote remove orign ( for remove orign)
 
 command 17. git push -u origin master (for push)
 
-command 18. git pull --rebase origin master (for rebased and update branch  )
+command 18. ``` $ git pull --rebase origin master``` (for rebased and update branch)
+command 19. ```$  git checkout master``` ()
