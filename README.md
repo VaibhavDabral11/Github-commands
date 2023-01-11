@@ -30,7 +30,7 @@ command 14. ```$ git remote -v```
 orign https://github.com/VaibhavDabral11/Gym-website.git (fetch)
 orign https://github.com/VaibhavDabral11/Gym-website.git (push)
  ```
-command 15. ```$ git remote add origin``` git@github.com:VaibhavDabral11/Gym-website.git (add git remote shh repo)
+command 15. ```$ git remote add origin git@github.com:VaibhavDabral11/Gym-website.git``` (add git remote shh repo)
   
 command 16. ```$ git remote remove orign ```( for remove orign)
 
