@@ -2,7 +2,7 @@
 
 command 1. ```touch .gitignore```
 
-command 2. ```git config --global user.name Harry```
+command 2. ```git config --global user.name vaibhav```
  
 command 3. ```git config --global user.email youremail@example.com```
  
