@@ -38,4 +38,20 @@ command 17. ``` $ git push -u origin master ``` (for push)
 
 command 18. ``` $ git pull --rebase origin master``` (for rebased and update branch)
  
-command 19. ```$  git checkout master```  ( for switching branch )
+command 19. 
+
+```$  git checkout master```  ( for switching branch )
+
+
+command 20.
+
+``` interactive rebase in progress; onto d8cf59a
+Last command done (1 command done):
+   pick c1ff652 developing routes
+No commands remaining.
+You are currently editing a commit while rebasing branch 'master' on 'd8cf59a'.
+  (use "git commit --amend" to amend the current commit)
+  (use "git rebase --continue" once you are satisfied with your changes)
+
+nothing to commit, working tree clean
+ ```
