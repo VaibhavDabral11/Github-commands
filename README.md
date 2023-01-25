@@ -38,10 +38,7 @@ command 17. ``` $ git push -u origin master ``` (for push)
 
 command 18. ``` $ git pull --rebase origin master``` (for rebased and update branch)
  
-command 19. 
-
-```$  git checkout master```  ( for switching branch )
-
+command 19.  ```$  git checkout master```  ( for switching branch )
 
 command 20.
 
