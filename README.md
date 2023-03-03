@@ -34,13 +34,15 @@ command 15. ```$ git remote add origin git@github.com:VaibhavDabral11/Gym-websit
   
 command 16. ```$ git remote remove orign ```( for remove orign)
 
-command 17. ``` $ git push -u origin master ``` (for push)
+command 17 ```$ git rebase --continue ```
 
-command 18. ``` $ git pull --rebase origin master``` (for rebased and update branch)
+command 18. ``` $ git push -u origin master ``` (for push)
+
+command 19. ``` $ git pull --rebase origin master``` (for rebased and update branch)
  
-command 19.  ```$  git checkout master```  ( for switching branch )
+command 20.  ```$  git checkout master```  ( for switching branch )
 
-command 20.
+command 21.
 
 ``` interactive rebase in progress; onto d8cf59a
 Last command done (1 command done):
