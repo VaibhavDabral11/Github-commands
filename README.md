@@ -6,15 +6,17 @@ command 2. ```git config --global user.name vaibhav```
  
 command 3. ```git config --global user.email youremail@example.com```
  
-command 4. ```git init```
+command 4. ``` git config --list```
+
+command 5. ```git init```
  
-command 5. ```git add .```
+command 6. ```git add .```
  
-command 6. ```$ git commit -m "Initial Commit"```
+command 7. ```$ git commit -m "Initial Commit"```
  
-command 7. ```$ git status``` # Just to see
+command 8. ```$ git status``` # Just to see
  
-command 8. ```$ ssh-keygen -t rsa -b 4096 -C "youremail@example.com"```
+command 9. ```$ ssh-keygen -t rsa -b 4096 -C "youremail@example.com"```
  
 command 10.``` $ cat <path to id_rsa.pub>``` # Add this key to your GitHub account 
  
