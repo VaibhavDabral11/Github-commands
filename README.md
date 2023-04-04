@@ -56,6 +56,7 @@ You are currently editing a commit while rebasing branch 'master' on 'd8cf59a'.
 
 nothing to commit, working tree clean
  ```
+command 22:
 ### code Backup
 
  ### UPDATE: A better way! (August 2015)
@@ -129,4 +130,13 @@ If you need more information on a commit, you can always use a more detailed log
 ```sh
 $ git checkout -b branch-name 9ae38fc
 Switched to a new branch 'branch-name'
+```
+
+## Commands
+command 23:  This commands is use to changing the name of the branch . 
+
+```@ruby  
+$  git branch -m old_branch_name new_branch_name
+
+$  git push origin -u new_branch_name
 ```
