@@ -40,9 +40,11 @@ command 17 ```$ git rebase --continue ```
 
 command 18. ``` $ git push -u origin master ``` (for push)
 
-command 19. ``` $ git pull --rebase origin master``` (for rebased and update branch)
+command 19. ``` git push -f origin master``` (for force)
+
+command 20. ``` $ git pull --rebase origin master``` (for rebased and update branch)
  
-command 20.  ```$  git checkout master```  ( for switching branch )
+command 21.  ```$  git checkout master```  ( for switching branch )
 
 command 21.
 
