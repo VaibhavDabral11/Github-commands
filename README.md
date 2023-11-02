@@ -142,3 +142,16 @@ $  git branch -m old_branch_name new_branch_name
 
 $  git push origin -u new_branch_name
 ```
+command 24:  This command is use to set any branch in git branch upstream.
+
+```@ruby
+ git push --set-upstream origin v1-sessionsByChatRoomId-Demo
+```
+command 25: This command is use to stach edited files. For details follow this link:- https://git-scm.com/docs/git-stash 
+
+```@ruby
+git-stash
+
+git stash apply
+```
+
