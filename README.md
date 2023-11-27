@@ -154,4 +154,7 @@ git-stash
 
 git stash apply
 ```
+git pull origin v1-staging 
+
+ git pull origin v1-staging --no-rebase 
 
