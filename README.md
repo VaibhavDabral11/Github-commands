@@ -1,5 +1,9 @@
 # Github-commands (**Important git commands)
 
+``` sudo apt-get update``` 
+
+```sudo apt-get upgrade```
+
 command 1. ```touch .gitignore```
 
 command 2. ```git config --global user.name vaibhav```
