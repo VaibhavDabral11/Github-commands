@@ -158,7 +158,9 @@ git-stash
 
 git stash apply
 ```
-git pull origin v1-staging 
+command 26: ```@ruby git pull origin v1-staging ``` 
 
- git pull origin v1-staging --no-rebase 
+command 27: ```@ruby git pull origin v1-staging --no-rebase ```
+
+command 28: ```@ruby git pull origin ```
 
