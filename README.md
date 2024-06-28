@@ -164,3 +164,9 @@ command 27: ```@ruby git pull origin v1-staging --no-rebase ```
 
 command 28: ```@ruby git pull origin ```
 
+command 29: To find the parent branch of a given branch in Git, you can use the following command to inspect the reflog: 
+```@ruby
+git reflog show <branch_name>
+```
+
+![image](https://github.com/VaibhavDabral11/Github-commands/assets/116658648/263f571e-0881-4fff-95dd-5b96cc6326c2)
