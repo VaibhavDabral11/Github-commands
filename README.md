@@ -8,12 +8,17 @@ command 1. ```touch .gitignore```
 
 command 2. ```git config --global user.name vaibhav```
  
-command 3. ```git config --global user.email youremail@example.com
-              // 2. Add SSH Key to SSH Agent
-              eval "$(ssh-agent -s)"
-              ssh-add ~/.ssh/id_rsa
-              // Add SSH Key to GitHub
-              cat ~/.ssh/id_rsa.pub ```
+command 3. 
+```
+git config --global user.email youremail@example.com
+
+// 2. Add SSH Key to SSH Agent
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+
+// Add SSH Key to GitHub
+cat ~/.ssh/id_rsa.pub
+```
 command 4. ``` git config --list```
 
 command 5. ```git init```
